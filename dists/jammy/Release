@@ -1,0 +1,20 @@
+Origin: CORESPEQ INC
+Label: Cluster-Wizard
+Suite: stable
+Codename: jammy
+Date: Tue, 26 Aug 2025 00:30:22 UTC
+Architectures: amd64
+Components: main
+Description: Ubuntu 22.04 (Jammy) repository
+MD5Sum:
+ db75afbbf32c93d737c0522ad8bd1efa 411 main/binary-amd64/Packages
+ e8de4d4d1066611fb062d66876982b6d 314 main/binary-amd64/Packages.gz
+ 5cb3591cf35a0a82a34c2a4d4d6c71f2 140 main/binary-amd64/Release
+SHA1:
+ 30cf80989cb1f68ed8c11df0ef6c0e7f46136426 411 main/binary-amd64/Packages
+ 0aab307ea750baa73a6d67fb8cc8ae94bedeb6c2 314 main/binary-amd64/Packages.gz
+ 82970625589cb63fe45dbe9aae6191d9f153e97d 140 main/binary-amd64/Release
+SHA256:
+ 861724824c2fba8f8db1cb54f2340b9c130c33a4bdc8bc19186c58f3bd1c646d 411 main/binary-amd64/Packages
+ 7c38a459aa7471aba861806bb6a5de1bc19f07ae1b0d983a989b015f76e5d63e 314 main/binary-amd64/Packages.gz
+ 38760489a7d8a08fd8dd4969202a0e126debee2d2edcc0ec2e48a139cce38a29 140 main/binary-amd64/Release

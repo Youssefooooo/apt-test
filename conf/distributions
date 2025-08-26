@@ -1,0 +1,23 @@
+Origin: CORESPEQ INC
+Label: Cluster-Wizard
+Suite: stable
+Codename: focal
+Architectures: amd64
+Components: main
+Description: Ubuntu 20.04 (Focal) repository
+
+Origin: CORESPEQ INC
+Label: Cluster-Wizard
+Suite: stable
+Codename: jammy
+Architectures: amd64
+Components: main
+Description: Ubuntu 22.04 (Jammy) repository
+
+Origin: CORESPEQ INC
+Label: Cluster-Wizard
+Suite: stable
+Codename: noble
+Architectures: amd64
+Components: main
+Description: Ubuntu 24.04 (Noble) repository
