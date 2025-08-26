@@ -1,38 +1,37 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Tue, 26 Aug 2025 00:58:15 +0000
+Origin: CORESPEQ INC
+Label: Cluster-Wizard
+Suite: stable
+Codename: jammy
+Date: Tue, 26 Aug 2025 14:41:56 UTC
+Architectures: amd64
+Components: main
+Description: Ubuntu 22.04 (Jammy) repository
 MD5Sum:
- d239cc08fe80f437eb376b84f0beaa85               38 Release
- a81626489dce1e7af9b346bfa48086f4              411 main/binary-amd64/Packages
- 08083537adfaf4251ab5143ba4ae4388              313 main/binary-amd64/Packages.gz
- 5cb3591cf35a0a82a34c2a4d4d6c71f2              140 main/binary-amd64/Release
+ c84907012e727a1f184a59e2a3111aa1 411 main/binary-amd64/Packages
+ 0fe423b19f4f91bdcb3d37c025cdb2ae 312 main/binary-amd64/Packages.gz
+ 5cb3591cf35a0a82a34c2a4d4d6c71f2 140 main/binary-amd64/Release
 SHA1:
- fddfd32064921661d3b5f81ead70d928efd80436               38 Release
- 9fec4bc27e6f759097126116ff4e3f2962d7053e              411 main/binary-amd64/Packages
- 049019fcdbfa909ab7df43a017b399ef90e47286              313 main/binary-amd64/Packages.gz
- 82970625589cb63fe45dbe9aae6191d9f153e97d              140 main/binary-amd64/Release
+ 87320204a0b92e57d2879265429408f43c0cd7d1 411 main/binary-amd64/Packages
+ 3095b5aa30cff4396df86e9e8d169844afa5fdf2 312 main/binary-amd64/Packages.gz
+ 82970625589cb63fe45dbe9aae6191d9f153e97d 140 main/binary-amd64/Release
 SHA256:
- b22d8a1520624bf18d6c6bbb3b7bccf2cc6464c8343bddd00a0bb5be40995e17               38 Release
- bd5b316eb90f65abdf9f67e98c2a9d481af8afa528067df06a80933ef5d03598              411 main/binary-amd64/Packages
- 2b55cfb7f4e89cbd71f3356b4961650c360e1b1a7d45825ab25cd8cf0d40ad1e              313 main/binary-amd64/Packages.gz
- 38760489a7d8a08fd8dd4969202a0e126debee2d2edcc0ec2e48a139cce38a29              140 main/binary-amd64/Release
-SHA512:
- 381de53e09bb994bdf20a89c1b1ece48a025445eb8ea9d189568ac220cfe6ffe4b77ceea2c931210c3fdea6886dd7940bc2544d17179fdacde4bbce0fb9f2e37               38 Release
- 6e4862b81a2e15cbba8178c35b2964b79177b98820087619b9116514f5031594f5f85727b2af9012ca4be8aeb1302c61f31e8d64ad3203584638211fa5e3425c              411 main/binary-amd64/Packages
- 8a66edc0c4dede960c66dc11147e1e4b6c8e39e021b48deb6068ad06aa265ac73a2487228fc4156bff9c764caab2fdb9263c512be9f2259bc99538bfa3c33a75              313 main/binary-amd64/Packages.gz
- e30f9df4deeec6bd14554325f67c8ff9a74e9a410b58ca52a85c219acdf100b1023d24b7a0f7d0fb10243978edcbb0cc0a246452f8f7b287c4d0455a379449db              140 main/binary-amd64/Release
+ 9d450c6f67c1f37b1f0265549a1c9404dd5c3d7e61ce83e5c01ed12e2dec48b2 411 main/binary-amd64/Packages
+ e3486bc21cb8245fcbbbed6eb31d48e2cf30e680e585d279df97be2bbe9a7f66 312 main/binary-amd64/Packages.gz
+ 38760489a7d8a08fd8dd4969202a0e126debee2d2edcc0ec2e48a139cce38a29 140 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEMyETBN0rN9rPHH0y9m6txtTG4WoFAmitBzoACgkQ9m6txtTG
-4WqFAwwAzAVzdlE7mGEUtwltzmz+NiQ0YevDiUJGhw/523+ex0IYJB+ZbBJ/noK6
-DWziS4QLRcTYNvDOMrRe19HFsTcib07afUun3taHRkoxBHtmJSNlRcZ/vHACJryu
-qjNL5QDikiXua50wvcAq0fQwpYKWsCcICPximb4e/DaGaGFdUaTsYvMbPot3jMd6
-zP/jVGsMS3I6scmhG5vRvDxFqT3K3P0bTFHWoI/cV9I5KS6mUeUTWWcOq/onheDk
-r+eemKlBqmblRgRdkPSCfyeWzAHo3bh1QcIC0qUQl/SLnTt/x+GiN6LnPwahZvO6
-VHCWI4amgmjKT9gNfgWFLyqpSBSMyoF2LSlXgIp2D0e0wo/7uD2GHFtv/GBDKc8u
-B3V66fhJCBxQGfh2LI0Z/6XjgXzXiQ1xLeURkJV1Bq2U+R4IJj/n06wPT7FkP4S1
-i1fVA2LXCkJRYDv4BUXZU5rVs6osnX7PLCWZBIGmkzT+zTqCb90zPe+zmSC9XqCa
-8ZygLpJ3
-=ktlu
+iQGzBAEBCgAdFiEEMyETBN0rN9rPHH0y9m6txtTG4WoFAmitx7UACgkQ9m6txtTG
+4WpEKAv+L7nsFhZubseafso63/T4VtDP0eq2MNCYq5Cqdw98iGdZ6qZDcExDgrAJ
+wzM6bTpc7RNMNDQPl8Bsb2YKaKumSpmtTGHALIz3qRrWCFOBDqqgsClJPtwUjlju
+YDVc3Xv6sMAKMXv2o9q/ksPA7eY8LM5WnBoOtNhHwrJyWS9tq2GiojpQU086fjHu
+kdJmzNoYkzyFyM3FmnTD0goI0jqWOuMN6/w+hLXy1qXqp4OyIYBk0Qa08T7REP2N
+Ws6tRcOCoY43LC4bhtT9JfScKj0TXYWvUUT4gSzESFIkf0t2xNqDUsxAAuqFKrqe
+lSI2voJS3oMjBXZCDZ7h0Tj7gSyvuVOR0WPev9kDErqSbLI4QJpR+0D6ONPNwUuv
+0w29bSL+bjy2/d49RlamYM38ZBM7jA0RQSpr+51PoCUUfiOsiJ2vRNv6Kw9lcnpe
+R81qUbOOvYMOC9+55ZOrqeCJLlEGr9BH7hPZ88iOQL9+5Fk18n/HarxvUwEFuqI9
+S3zJyjXz
+=Ql8r
 -----END PGP SIGNATURE-----
