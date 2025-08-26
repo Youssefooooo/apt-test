@@ -6,8 +6,8 @@ Priority: 0
 Section: utils
 Filename: pool/main/w/wizard-client/wizard-client_0.4.0-beta_all.deb
 Size: 7645088
-SHA256: b488a891ca28cd218e78b9ce4a285532a73e24b4251c249d92c45ff183a9d70c
-SHA1: deb5d12325bca875e3e4ef07e819b3ebaafb4709
-MD5sum: fc7f833f706d1e2161c7db83aa62f7dc
+SHA256: 324811a3b0ce09deae9c1079ec1eac645a30797358349f1802228a6a7560067f
+SHA1: 22c79942eb0ac0a0e2c5692c8affdb00e39ce97c
+MD5sum: e7c5b93e34563a5189365c75747f2006
 Description: Wizard-Client, A Cluster-Wizard Project
 
