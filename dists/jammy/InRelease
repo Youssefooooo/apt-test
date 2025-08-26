@@ -3,35 +3,35 @@ Hash: SHA512
 
 Origin: CORESPEQ INC
 Label: Cluster-Wizard
-Suite: stable
+Suite: jammy
 Codename: jammy
-Date: Tue, 26 Aug 2025 14:41:56 UTC
+Date: Tue, 26 Aug 2025 14:46:33 UTC
 Architectures: amd64
 Components: main
 Description: Ubuntu 22.04 (Jammy) repository
 MD5Sum:
  c84907012e727a1f184a59e2a3111aa1 411 main/binary-amd64/Packages
  0fe423b19f4f91bdcb3d37c025cdb2ae 312 main/binary-amd64/Packages.gz
- 5cb3591cf35a0a82a34c2a4d4d6c71f2 140 main/binary-amd64/Release
+ dd1aa3e49cbbc51afd48dbdf1bb5e65e 139 main/binary-amd64/Release
 SHA1:
  87320204a0b92e57d2879265429408f43c0cd7d1 411 main/binary-amd64/Packages
  3095b5aa30cff4396df86e9e8d169844afa5fdf2 312 main/binary-amd64/Packages.gz
- 82970625589cb63fe45dbe9aae6191d9f153e97d 140 main/binary-amd64/Release
+ 4f7e09c1966013459475bbb4ed3d0a8bb36bfff0 139 main/binary-amd64/Release
 SHA256:
  9d450c6f67c1f37b1f0265549a1c9404dd5c3d7e61ce83e5c01ed12e2dec48b2 411 main/binary-amd64/Packages
  e3486bc21cb8245fcbbbed6eb31d48e2cf30e680e585d279df97be2bbe9a7f66 312 main/binary-amd64/Packages.gz
- 38760489a7d8a08fd8dd4969202a0e126debee2d2edcc0ec2e48a139cce38a29 140 main/binary-amd64/Release
+ 6cc18b287f14bf0ed146d9a4c5fac5fabf3f2168589ac9835b186ead611d503c 139 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEMyETBN0rN9rPHH0y9m6txtTG4WoFAmitx7UACgkQ9m6txtTG
-4WpEKAv+L7nsFhZubseafso63/T4VtDP0eq2MNCYq5Cqdw98iGdZ6qZDcExDgrAJ
-wzM6bTpc7RNMNDQPl8Bsb2YKaKumSpmtTGHALIz3qRrWCFOBDqqgsClJPtwUjlju
-YDVc3Xv6sMAKMXv2o9q/ksPA7eY8LM5WnBoOtNhHwrJyWS9tq2GiojpQU086fjHu
-kdJmzNoYkzyFyM3FmnTD0goI0jqWOuMN6/w+hLXy1qXqp4OyIYBk0Qa08T7REP2N
-Ws6tRcOCoY43LC4bhtT9JfScKj0TXYWvUUT4gSzESFIkf0t2xNqDUsxAAuqFKrqe
-lSI2voJS3oMjBXZCDZ7h0Tj7gSyvuVOR0WPev9kDErqSbLI4QJpR+0D6ONPNwUuv
-0w29bSL+bjy2/d49RlamYM38ZBM7jA0RQSpr+51PoCUUfiOsiJ2vRNv6Kw9lcnpe
-R81qUbOOvYMOC9+55ZOrqeCJLlEGr9BH7hPZ88iOQL9+5Fk18n/HarxvUwEFuqI9
-S3zJyjXz
-=Ql8r
+iQGzBAEBCgAdFiEEMyETBN0rN9rPHH0y9m6txtTG4WoFAmityMkACgkQ9m6txtTG
+4WrMWgwAmtWFYqsVUorUD/toucD5yFsQyF7PF+9ppcH2GfoolF3BZBrjp9if4zet
+neRqJhdNvh4ZOYg6XYY9p9t+Bq1ej3oitM3nxFKgPN3w3E8abFC1KGdV+H1kYF1C
+CeIg+bNC+ACD74Yx+3ZdBb2x0hSGWt0jFTZ1/M9aiTGLdL8cWdhMwGIKfhAPQ9Lr
+bvB8iH7Ix/bzsvsPU9wtgE+BqElorlsZWTO78kDBiVBfZGhwuPXp7A3BSScQ1lGX
+2v3mG4L28mLcLcEDjCUIJWh9utuV1Zp9oXYBy5hUE3zMWGIaY31YgDoUIuK44hhW
+qMQElaRZZP0L1RmS0dYTKry55rSXloPJy2A4Y5dlR+gqUvSjOFPtlsAYj3TPDCnB
+mvaMmWxJwDz9UgQk5YVt6VPWl/pxyRu+7aJvNYIV0DEGsmHKpes9IY5HBDUtJcRc
+H4dKUDsNnBu0geP6s81ui0l6iM9InyFXrk8rqvxVw7aSNwOIO0RDtEuh72G4c+eV
+r1OcKgde
+=gKDo
 -----END PGP SIGNATURE-----

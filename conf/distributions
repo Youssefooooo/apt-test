@@ -1,6 +1,6 @@
 Origin: CORESPEQ INC
 Label: Cluster-Wizard
-Suite: stable
+Suite: focal
 Codename: focal
 Architectures: amd64
 Components: main
@@ -9,7 +9,7 @@ SignWith: yes
 
 Origin: CORESPEQ INC
 Label: Cluster-Wizard
-Suite: stable
+Suite: jammy
 Codename: jammy
 Architectures: amd64
 Components: main
@@ -18,7 +18,7 @@ SignWith: yes
 
 Origin: CORESPEQ INC
 Label: Cluster-Wizard
-Suite: stable
+Suite: noble
 Codename: noble
 Architectures: amd64
 Components: main
