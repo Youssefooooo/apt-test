@@ -1,0 +1,14 @@
+Package: wizard-client
+Version: 0.4.0
+Architecture: amd64
+Maintainer: CORESPEQ INC <cluster-wizard@corespeq.com>
+Priority: 0
+Section: utils
+Filename: pool/jammy/w/wizard-client/wizard-client_0.4.0_amd64.deb
+Size: 7618292
+SHA512: ceab86c280d050281166b59b00fa2b4f500127ace8a273276c23690e4f7717599f26c413b2f4913e06544ac76987bc32c96dddb798b881b6981766d5d9195ca9
+SHA256: fa31a2285f245c5099332d7bdf88387116ad11cf54d0faae69b2e16889566ed3
+SHA1: 46d0c2275c96d4bc12539da279382ec4127cd766
+MD5sum: 8f0beea8bfab82b62a2992761d445b0f
+Description: Wizard-Client, A Cluster-Wizard Project
+

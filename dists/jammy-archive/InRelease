@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: CORESPEQ INC
+Label: Cluster-Wizard
+Suite: jammy
+Codename: jammy-archive
+Date: Wed, 27 Aug 2025 02:45:35 UTC
+Architectures: amd64
+Components: jammy
+Description: Ubuntu 22.04 (Jammy) repository archive
+MD5Sum:
+ 93eee1b949b40652d11d9e1a5f16a482 583 jammy/binary-amd64/Packages
+ d07b54ffb576d6174199e4cf81dcc2d6 424 jammy/binary-amd64/Packages.gz
+ c0d3ec4515c2e69454f912b876514254 148 jammy/binary-amd64/Release
+SHA1:
+ f0b9a13828f9dc706bcf83093a3c753fe450f27f 583 jammy/binary-amd64/Packages
+ cda1485fe2a76a7334d2d3898beb92a99430de8c 424 jammy/binary-amd64/Packages.gz
+ 0aab9e12a95132c961339fb1e3f0783716024929 148 jammy/binary-amd64/Release
+SHA256:
+ e1a5b43dd94acc920c490dcf8dcfd2b23876613f295bfcdc7a2294b6c3dcb954 583 jammy/binary-amd64/Packages
+ 41241aaf861de03c4b43173ab63576db1e8d96437298f6fc1d8d7f7962bea233 424 jammy/binary-amd64/Packages.gz
+ f62d25036cb7b91e84b644065da7228b24e08b3113765426fe3d1588f91584ee 148 jammy/binary-amd64/Release
+SHA512:
+ 14084fd7d520210679c09bbd24f9b5de1a4089b5e12837046b8be9295fcf22c1e8317f7e3dea74e41867ac4b013ad0cab86d845207a50f960c0c614ea9972c93 583 jammy/binary-amd64/Packages
+ 830c8a2f94801449ec0adde201ab49632040ebcc274a3e82bb3a88b8661cf58f290bbc2212980ec9c42347b2e032962331b2f6a735f2f242b5806ed62dabe822 424 jammy/binary-amd64/Packages.gz
+ 688812a3e78c0059e0de820ec02116a0a0512323c83fc2b5787e61eecea0eb6358b179bf15e92184e0882e233696dd481be82ead691870233962299b6c46a50b 148 jammy/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEMyETBN0rN9rPHH0y9m6txtTG4WoFAmiucU8ACgkQ9m6txtTG
+4Wrh9AwAtRHSR4j3gYrXD/bCcUQd/tigyR+O2MmyQZ+z+Hjw+cegzk57hvdj29kg
+8gkq83bjLzM6/1Z7i/WDROPT35OhjJSehIggdbF/MR1cIvB74WymwXoMY1c260ck
+6sva9j9K0otd46FOz9a7WGm4ktcHfUcT0fakDa21er0OinCjDBpmrkI4KCgVfbHK
+uK8fxu6kiRLl2PDWvq10hDym0Q0hq5cddO/TIeqBMO76hLMOzdE+2u1DSrjAe4KJ
+bDa2YMdytsFhQFcqoyTftx0e/H9mT5F+jMmNKno9cHCrr0bYxy1Z4Z+8f8oBUQDe
+88Mzo4jOczPjKxaFezeE9oOQdzqslHTAWDTWzk3VcjuFGx9oRMwvA+x7B/IMSciq
+a89dXxuuMf9d552wt96f+RX9oY7DRpz+XIdGjvQTmXG2gt47STsuV98Onty2WBOU
+D2ESnpgoVQfUi9BZ2Z8YtYKA2CdiSPfovA5b+cseOV+E+eF7BPl/lwuVsLZtwcI9
+/fHLtl0M
+=Ot8U
+-----END PGP SIGNATURE-----

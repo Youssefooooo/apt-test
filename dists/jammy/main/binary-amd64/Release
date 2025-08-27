@@ -1,6 +1,0 @@
-Archive: jammy
-Component: main
-Origin: CORESPEQ INC
-Label: Cluster-Wizard
-Architecture: amd64
-Description: Ubuntu 22.04 (Jammy) repository

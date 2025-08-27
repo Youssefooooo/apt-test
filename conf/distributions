@@ -1,18 +1,30 @@
 Origin: CORESPEQ INC
 Label: Cluster-Wizard
 Suite: focal
-Codename: focal
+Codename: focal-archive
 Architectures: amd64
-Components: main
+Components: focal
 Description: Ubuntu 20.04 (Focal) repository
 SignWith: F66EADC6D4C6E16A
+Limit: 0
+
+Origin: CORESPEQ INC
+Label: Cluster-Wizard
+Suite: focal
+Codename: focal
+Architectures: amd64
+Components: focal
+Description: Ubuntu 20.04 (Focal) repository
+SignWith: F66EADC6D4C6E16A
+Limit: 4
+Archive: focal-archive
 
 Origin: CORESPEQ INC
 Label: Cluster-Wizard
 Suite: jammy
 Codename: jammy-archive
 Architectures: amd64
-Components: main
+Components: jammy
 Description: Ubuntu 22.04 (Jammy) repository archive
 SignWith: F66EADC6D4C6E16A
 Limit: 0
@@ -22,10 +34,10 @@ Label: Cluster-Wizard
 Suite: jammy
 Codename: jammy
 Architectures: amd64
-Components: main
+Components: jammy
 Description: Ubuntu 22.04 (Jammy) repository
 SignWith: F66EADC6D4C6E16A
-Limit: 4
+Limit: 1
 Archive: jammy-archive
 
 Origin: CORESPEQ INC

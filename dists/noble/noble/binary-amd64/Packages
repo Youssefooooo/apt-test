@@ -6,10 +6,10 @@ Priority: 0
 Section: utils
 Filename: pool/noble/w/wizard-client/wizard-client_0.4.0_amd64.deb
 Size: 7618806
-SHA512: dae85025b4202ff96d8215d3ccda55730714699b5ae90e0e852cb2c4aa0affb4fe8b74bb20f6b8f428faf5d3e602e8a49c488b947950c5b6385ca177607d150c
-SHA256: 58cdbcd49158b4f89fb5c62a8a47df0e8c9daa3ac8ccbefb4251702f134129f0
-SHA1: 6bea390ab9d54e30e48452c2efd819ea7eb5828e
-MD5sum: b74dd392b3e3aa2a78438be7d220c138
+SHA512: 7119ebbec4e340ff0c10817701994dd602835daeabc90223dc0091befd2d538af7ffc8c2fc955decb7fb9b8f74f05f3ef2b1220253fd2d6c568f125fbc751c75
+SHA256: 2c4304bd96941e494e5ae5e99a211c99493c4e854a8f3ebec5e1391dbaf4c41e
+SHA1: 87a4b2e806d0bb7fd51469d73fffb8fa98514f8c
+MD5sum: fa3d1cd306b7c312c42d376e7816afa9
 Description: Wizard-Client, A Cluster-Wizard Project
 
 Package: wizard-client
