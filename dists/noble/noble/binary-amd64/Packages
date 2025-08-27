@@ -1,0 +1,28 @@
+Package: wizard-client
+Version: 0.4.0
+Architecture: amd64
+Maintainer: CORESPEQ INC <cluster-wizard@corespeq.com>
+Priority: 0
+Section: utils
+Filename: pool/noble/w/wizard-client/wizard-client_0.4.0_amd64.deb
+Size: 7618806
+SHA512: dae85025b4202ff96d8215d3ccda55730714699b5ae90e0e852cb2c4aa0affb4fe8b74bb20f6b8f428faf5d3e602e8a49c488b947950c5b6385ca177607d150c
+SHA256: 58cdbcd49158b4f89fb5c62a8a47df0e8c9daa3ac8ccbefb4251702f134129f0
+SHA1: 6bea390ab9d54e30e48452c2efd819ea7eb5828e
+MD5sum: b74dd392b3e3aa2a78438be7d220c138
+Description: Wizard-Client, A Cluster-Wizard Project
+
+Package: wizard-client
+Version: 0.4.0~beta
+Architecture: amd64
+Maintainer: CORESPEQ INC <cluster-wizard@corespeq.com>
+Priority: 0
+Section: utils
+Filename: pool/noble/w/wizard-client/wizard-client_0.4.0~beta_amd64.deb
+Size: 7618812
+SHA512: 1c933097bf87d3caedd00194c80c6abd0f4a623cebccc35995aee2002c2e50f52acdff0c7c4e2955296253f305792c7d9ff92789c937f4015a7ce26fb6ebcef5
+SHA256: 69503cea1e5e10b1b397f18843ade156394b7d98305a9d4c957fc2766a9ab090
+SHA1: 3b2d13afb8d6dd722258ad2c09c72056360d654d
+MD5sum: 7888b876dbd09bbf2781f9cd0e34c907
+Description: Wizard-Client, A Cluster-Wizard Project
+

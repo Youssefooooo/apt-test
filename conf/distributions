@@ -31,9 +31,20 @@ Archive: jammy-archive
 Origin: CORESPEQ INC
 Label: Cluster-Wizard
 Suite: noble
+Codename: noble-archive
+Architectures: amd64
+Components: noble
+Description: Ubuntu 24.04 (Noble) repository archive
+SignWith: F66EADC6D4C6E16A
+Limit: 0
+
+Origin: CORESPEQ INC
+Label: Cluster-Wizard
+Suite: noble
 Codename: noble
 Architectures: amd64
-Components: main
+Components: noble
 Description: Ubuntu 24.04 (Noble) repository
 SignWith: F66EADC6D4C6E16A
-
+Limit: 4
+Archive: noble-archive
