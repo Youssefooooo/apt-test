@@ -1,13 +1,13 @@
 Package: wizard-client
-Version: 0.4.0-beta
+Version: 0.4.0+stable
 Maintainer: CORESPEQ INC
 Architecture: all
 Priority: 0
 Section: utils
-Filename: pool/main/w/wizard-client/wizard-client_0.4.0-beta_all.deb
-Size: 7646210
-SHA256: fc2ef0aff48d7fb476c2522039d225f582a97569a909b8d76ae47bda6d383082
-SHA1: 8b88ffab7e5e73122678a986de6106a15ed1958a
-MD5sum: 8e54ab86f48591f917553f0175e61be2
+Filename: pool/main/w/wizard-client/wizard-client_0.4.0+stable_all.deb
+Size: 7646346
+SHA256: 3ac59e20921e93f8b87d9229378385b36a05ae5a76e492568efb1c337477bb75
+SHA1: 71a6ffb7b5c97de80353052037120b1d838d080a
+MD5sum: a116d12556157f31c59c95d3656c404a
 Description: Wizard-Client, A Cluster-Wizard Project
 
